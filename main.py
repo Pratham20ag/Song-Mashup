@@ -35,7 +35,7 @@ def mashup(response,output_path,clip_seconds):
 
 
 if __name__ == "__main__":
-    api_key = 'AIzaSyAAdHMXDrTnUxDYhrBw5zkuV_3UiQgEFcg'
+    api_key = 'Enter Your API key Here'
     artist_name = 'Bruno Mars'
 
     youtube = build('youtube', 'v3', developerKey=api_key)
